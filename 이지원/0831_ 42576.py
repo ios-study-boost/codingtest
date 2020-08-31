@@ -14,5 +14,6 @@ def solution(participant, completion):
     for key, value in dict.items():
         if value == 1:
             answer = key
+            break
         
     return answer
