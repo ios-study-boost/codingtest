@@ -1,3 +1,6 @@
+# https://programmers.co.kr/learn/courses/30/lessons/42626
+# 더 맵게
+
 import heapq
 
 def solution(scoville, K):
@@ -6,9 +9,6 @@ def solution(scoville, K):
     
     for s in scoville:
         heapq.heappush(heap, s)
-    
-    if max(heap) < 1:
-        return -1
 
     while len(heap) > 1 and heap[0] <= K:
         first = heapq.heappop(heap)
