@@ -7,3 +7,4 @@
 | 2020/09/01 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) |
 | 2020/09/02 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) |
 | 2020/09/03 | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) |
+| 2020/09/04 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |
