@@ -7,3 +7,4 @@
 | 2020/09/02 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [코드](0902_42626.py) | [풀이](0902_42626.md) |
 | 2020/09/03 | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [코드](0903_42748.py) | |
 | 2020/09/04 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [코드](0904_42840.py) | [풀이](0904_42840.md) |
+| 2020/09/05 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | [코드](0905_42862.py) |  |
