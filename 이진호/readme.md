@@ -11,3 +11,4 @@
 | 2020/09/05 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) |
 | 2020/09/07 | [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) |
 | 2020/09/08 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) |
+| 2020/09/08 | [가장먼노드](https://programmers.co.kr/learn/courses/30/lessons/49189) |
