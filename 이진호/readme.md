@@ -15,3 +15,4 @@
 | 2020/09/10 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |
 | 2020/09/11 | [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586) |
 | 2020/09/12 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) |
+| 2020/09/13 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) |
