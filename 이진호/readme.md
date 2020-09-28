@@ -18,3 +18,4 @@
 | 2020/09/15 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) |
 | 2020/09/16 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |
 | 2020/09/21 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42839) |
+| 2020/09/22 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) |
